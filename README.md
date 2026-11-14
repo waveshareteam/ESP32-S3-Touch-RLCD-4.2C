@@ -83,7 +83,7 @@ Versions and board options are recorded in [.github/product.json](.github/produc
 ## 📚 Resources
 
 - [Schematic](hardware/schematic/)
-- [Dimensions and 3D model](hardware/mechanical/) — shared with 4.2B; original drawing filenames are retained.
+- [Dimensions and 3D model](hardware/mechanical/)
 - [Official product website](https://www.waveshare.com/)
 - [ESP-IDF examples](examples/esp-idf/)
 - [Arduino examples](examples/arduino/examples/)
