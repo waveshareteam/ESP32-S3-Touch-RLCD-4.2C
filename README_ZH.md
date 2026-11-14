@@ -83,7 +83,7 @@ Arduino 公共库位于 [examples/arduino/libraries](examples/arduino/libraries/
 ## 📚 资料
 
 - [原理图](hardware/schematic/)
-- [尺寸图与 3D 模型](hardware/mechanical/)：与 4.2B 共用，保留原始图纸文件名。
+- [尺寸图与 3D 模型](hardware/mechanical/)
 - [官方产品网站](https://www.waveshare.com/)
 - [ESP-IDF 示例](examples/esp-idf/)
 - [Arduino 示例](examples/arduino/examples/)
